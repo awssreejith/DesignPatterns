@@ -6,3 +6,4 @@ Factory Method                  --> FactoryMethod.cpp
 Abstract Factory Pattern        --> AbstractFactory.cpp
 Builder Pattern                 --> BuilderPattern.cpp
 PrototypePattern                --> PrototypePattern.cpp
+Adapter Pattern                 --> AdapterPattern.cpp
