@@ -1,4 +1,6 @@
-# DesignPatterns
+##NOTE!!!!!
+THIS REPOSITIORY WILL BE UPLOADED/UPDATED WITH LATEST TOPICS ATLEAST ONCE A WEEK
+
 
 Repository created for design patterns analysis and sample implementations
 
