@@ -18,3 +18,4 @@ PrototypePattern                --> PrototypePattern.cpp
 
 Adapter Pattern                 --> AdapterPattern.cpp
 
+Bridge Pattern                  --> BridgePattern.cpp
